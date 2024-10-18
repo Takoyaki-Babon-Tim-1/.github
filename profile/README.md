@@ -31,13 +31,6 @@ Pelanggan dapat melakukan pemesanan melalui situs web kami atau langsung datang 
 3. Lakukan pembayaran sesuai dengan instruksi yang diberikan.
 4. Tunggu konfirmasi pesanan dan takoyaki Anda siap diantar atau diambil.
 
-## Tim Kami
-
-Kami percaya bahwa di balik setiap produk yang hebat, ada tim yang berdedikasi. Berikut adalah tim utama yang memastikan bahwa setiap takoyaki diproses dengan cinta dan keahlian:
-
-- **Chef Utama**: Bertanggung jawab atas resep dan proses pembuatan takoyaki.
-- **Tim Pengemas**: Memastikan takoyaki Anda dikemas dengan rapi dan aman.
-- **Tim Layanan Pelanggan**: Siap membantu setiap pertanyaan atau keluhan pelanggan.
 
 ## Kontribusi
 
