@@ -12,14 +12,6 @@ Takoyaki Babon didirikan dengan misi untuk memperkenalkan cita rasa asli takoyak
 - Membangun pengalaman kuliner yang menyenangkan bagi pelanggan kami.
 - Menjaga standar kebersihan dan kesehatan dalam setiap proses produksi.
 
-## Produk Kami
-
-Kami menyediakan berbagai varian takoyaki dengan topping dan saus yang beragam, termasuk:
-
-- **Takoyaki Original**: Takoyaki klasik dengan topping serpihan bonito dan saus takoyaki.
-- **Takoyaki Keju**: Takoyaki dengan tambahan keju leleh yang creamy.
-- **Takoyaki Pedas**: Takoyaki dengan sentuhan pedas yang menggugah selera.
-
 ## Cara Pemesanan
 
 Pelanggan dapat melakukan pemesanan melalui situs web kami atau langsung datang ke gerai Takoyaki Babon. Kami juga menyediakan layanan preorder untuk acara-acara khusus dan pesanan dalam jumlah besar.
@@ -30,7 +22,6 @@ Pelanggan dapat melakukan pemesanan melalui situs web kami atau langsung datang 
 2. Pilih varian takoyaki yang diinginkan.
 3. Lakukan pembayaran sesuai dengan instruksi yang diberikan.
 4. Tunggu konfirmasi pesanan dan takoyaki Anda siap diantar atau diambil.
-
 
 ## Kontribusi
 
