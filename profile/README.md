@@ -21,7 +21,7 @@ Pelanggan dapat melakukan pemesanan melalui situs web kami atau langsung datang 
 1. Kunjungi situs web kami di [www.takoyakibabon.com](#).
 2. Pilih varian takoyaki yang diinginkan.
 3. Lakukan pembayaran sesuai dengan instruksi yang diberikan.
-4. Tunggu konfirmasi pesanan dan takoyaki Anda siap diantar atau diambil.
+4. Tunggu konfirmasi pesanan dan takoyaki Anda siap diambil.
 
 ## Kontribusi
 
